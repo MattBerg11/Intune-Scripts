@@ -7,7 +7,7 @@ I claim no ownership on anything that exists here, but I am sharing to keep thin
 No warranty, check scripts you get from other people, be nice to others, etc, etc.
 
 
-# People that are smarter than me, and actual Repo's you should check out
-https://github.com/JayRHa
-https://github.com/MSEndpointMgr
-https://github.com/microsoftgraph/powershell-intune-samples
+## People that are smarter than me, and actual Repo's you should check out
+* https://github.com/JayRHa
+* https://github.com/MSEndpointMgr
+* https://github.com/microsoftgraph/powershell-intune-samples
